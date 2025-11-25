@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <!-- hood -->
+    <rect x="12" y="8" width="40" height="40" rx="20" fill="#ffd9ee" />
+    <path d="M12 28c0-8 12-18 20-18s20 10 20 18v10H12z" fill="#ffb6d6"/>
+    <!-- face -->
+    <circle cx="32" cy="32" r="10" fill="#fff"/>
+    <circle cx="27" cy="31" r="1.6" fill="#231f20"/>
+    <circle cx="37" cy="31" r="1.6" fill="#231f20"/>
+    <ellipse cx="32" cy="36" rx="2" ry="1" fill="#f6b0c9"/>
+  </g>
+</svg>

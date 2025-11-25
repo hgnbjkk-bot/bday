@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <circle cx="32" cy="34" r="18" fill="#fff" stroke="#f4a6c2" stroke-width="2"/>
+    <!-- ears -->
+    <path d="M18 12c0 8 10 8 10 0 0-8-10-8-10 0z" fill="#fff" stroke="#f4a6c2" stroke-width="2" transform="translate(0,6)"/>
+    <path d="M46 12c0 8-10 8-10 0 0-8 10-8 10 0z" fill="#fff" stroke="#f4a6c2" stroke-width="2" transform="translate(0,6)"/>
+    <!-- bow -->
+    <g transform="translate(44,8)">
+      <path d="M0 6c0-3 4-6 8-6s8 3 8 6-4 6-8 6S0 9 0 6z" fill="#ff5c8a"/>
+      <circle cx="8" cy="6" r="2" fill="#fff"/>
+    </g>
+    <!-- face -->
+    <circle cx="26" cy="34" r="1.6" fill="#231f20"/>
+    <circle cx="38" cy="34" r="1.6" fill="#231f20"/>
+    <ellipse cx="32" cy="40" rx="2" ry="1.2" fill="#f49fb4"/>
+    <path d="M28 44c1.5 2 6.5 2 8 0" stroke="#231f20" stroke-width="1" stroke-linecap="round" fill="none"/>
+  </g>
+</svg>

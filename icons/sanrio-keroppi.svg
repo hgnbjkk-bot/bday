@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64'>
+  <g fill="none" fill-rule="evenodd">
+    <circle cx="32" cy="34" r="18" fill="#a9e88b" stroke="#6dcc56" stroke-width="2"/>
+    <circle cx="24" cy="30" r="2" fill="#fff"/>
+    <circle cx="40" cy="30" r="2" fill="#fff"/>
+    <circle cx="24" cy="30" r="1" fill="#231f20"/>
+    <circle cx="40" cy="30" r="1" fill="#231f20"/>
+    <ellipse cx="32" cy="40" rx="6" ry="4" fill="#6dcc56"/>
+    <path d="M26 38c1 2 6 2 8 0" stroke="#231f20" stroke-width="1" stroke-linecap="round" fill="none"/>
+  </g>
+</svg>
